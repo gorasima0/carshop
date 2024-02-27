@@ -10,7 +10,3 @@ If downloaded, go to project folder in terminal and run //npm install.
 #Run the project
 
 Once npm installed, run //npm start.
-
-#Author
-Ratko Pokrajac
-2020.
